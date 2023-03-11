@@ -1,0 +1,94 @@
+﻿{
+"data": {
+  "lms": {
+    "common": {
+      "combinedprism": {
+        "in": 8.48536,
+        "up": 8.4852
+      }
+    },
+    "left": {
+      "add": 3,
+      "ax": 45,
+      "cyl": -0.25,
+      "prism": {
+        "in": 4.24266,
+        "up": 4.24262
+      },
+      "sph": 10
+    },
+    "right": {
+      "add": 3.87,
+      "ax": 135,
+      "cyl": -5,
+      "prism": {
+        "in": 4.2427,
+        "up": -4.24259
+      },
+      "sph": 10
+    }
+  },
+  "measure": {
+    "common": {
+      "combinedprism": {
+        "in": -9.35244,
+        "up": -8.88273
+      }
+    },
+    "left": {
+      "add": 4.55882,
+      "ax": 16.6776,
+      "cyl": -0.590101,
+      "images": {
+        "surface": "images\\measure.left.surface.scratch.blobs_0.bmp"
+      },
+      "prism": {
+        "in": -3.98634,
+        "up": 4.22631
+      },
+      "sph": -10.6112
+    },
+    "right": {
+      "add": 3.28695,
+      "ax": 129.447,
+      "cyl": -1.25508,
+      "images": {
+        "surface": "images\\measure.right.surface.scratch.blobs_0.bmp"
+      },
+      "prism": {
+        "in": -5.36611,
+        "up": -4.65642
+      },
+      "sph": 12.045
+    }
+  },
+  "result": {
+    "common": {
+      "combinedprism": null,
+      "overall": "fail",
+      "perscription": "pass",
+      "surface": "fail"
+    },
+    "left": {
+      "ax": null,
+      "cyl": null,
+      "prism": null,
+      "sph": null
+    },
+    "right": {
+      "ax": null,
+      "cyl": null,
+      "prism": null,
+      "sph": null
+    }
+  }
+},
+"jobid": "000022093340",
+"message": {
+  "id": "messaged.id.text",
+  "texten": "Measurement",
+  "textlocale": "Measurement"
+},
+"progress": 99,
+"status": "running"
+}
