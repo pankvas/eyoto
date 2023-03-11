@@ -1,0 +1,27 @@
+.overallResults_tableCell {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding: 9px;
+}
+ 
+.overallResults_tableCell_black_text {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 5px;
+  line-height: 5px;
+}
+
+.overallResults_tableCell_green_text {
+  font-weight: bold;
+  color: rgb(0, 128, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+}
+
+.overallResults_row {
+  margin-bottom: 50px !important;
+}

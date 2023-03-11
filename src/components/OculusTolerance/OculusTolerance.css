@@ -1,0 +1,18 @@
+.oculusTolerance_tableCell {
+  font-weight: bold !important;
+  color: rgb(0, 0, 0) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+  padding: 6px !important;
+}
+
+.oculusTolerance_tableCell_text {
+  font-weight: bold !important;
+  color: rgb(0, 0, 255) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+}
+
+.oculusTolerance_row {
+  margin-bottom: 50px !important;
+}

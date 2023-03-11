@@ -1,0 +1,59 @@
+.combindedResults_row {
+  margin-bottom: 50px !important;
+}
+
+.combindedResults_tableCell_text {
+  font-weight: bold !important;
+  color: blue !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+}
+
+.combindedResults_tableCell_black_label {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px !important;
+  padding: 2px !important;  
+}
+
+.combindedResults_tableCell_blue_label {
+  font-weight: bold !important;
+  color: rgb(0, 0, 255) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+  padding: 2px !important;  
+}
+
+.combindedResults_tableCell_green_label {
+  font-weight: bold !important;
+  color: rgb(0, 128, 0) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+  padding: 2px !important;    
+}
+
+.combindedResults_tableCell_black_text {
+  font-weight: bold;
+  color:  rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px !important;
+  padding: 2px !important;  
+}
+
+.combindedResults_tableCell_blue_text {
+  font-weight: bold !important;
+  color: rgb(0, 0, 255) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+  padding: 2px !important;  
+}
+
+.combindedResults_tableCell_green_text {
+  font-weight: bold !important;
+  color: rgb(0, 128, 0) !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  font-size: 15px !important;
+  padding: 2px !important; 
+}
+

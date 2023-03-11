@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CombinedResults component CombinedResults snapshot test 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+  >
+    <img
+      alt="Atlas Duo logo"
+      src="AtlasDuo.png"
+    />
+    <div
+      className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+    >
+      <div
+        className="MuiGrid2-root MuiGrid2-direction-xs-row css-27y2fm-MuiGrid2-root"
+      >
+        <div
+          className="MuiBox-root css-mwent8"
+        >
+          <h1>
+            Please scan your first job
+          </h1>
+        </div>
+        <div
+          className="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-2 css-bytlsb-MuiGrid2-root"
+        />
+        <div
+          className="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-5 css-14zyp9z-MuiGrid2-root"
+        >
+          <div
+            className="MuiBox-root css-1o5zaq3"
+          >
+            <div
+              className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 css-haecdm-MuiPaper-root"
+            >
+              <div
+                className="MuiContainer-root MuiContainer-maxWidthLg css-1oqqzyl-MuiContainer-root"
+              >
+                <div
+                  className="MuiFormControl-root MuiTextField-root EnterAJobText css-1u3bzj6-MuiFormControl-root-MuiTextField-root"
+                >
+                  <label
+                    className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-colorPrimary MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+                    data-shrink={false}
+                    htmlFor="outlined-basic"
+                    id="outlined-basic-label"
+                  >
+                    Enter Job Id
+                  </label>
+                  <div
+                    className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+                    onClick={[Function]}
+                  >
+                    <input
+                      aria-invalid={false}
+                      autoFocus={false}
+                      className="MuiInputBase-input MuiOutlinedInput-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+                      disabled={false}
+                      id="outlined-basic"
+                      onAnimationStart={[Function]}
+                      onBlur={[Function]}
+                      onChange={[Function]}
+                      onFocus={[Function]}
+                      required={false}
+                      type="text"
+                    />
+                    <fieldset
+                      aria-hidden={true}
+                      className="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+                    >
+                      <legend
+                        className="css-yjsfm1"
+                      >
+                        <span>
+                          Enter Job Id
+                        </span>
+                      </legend>
+                    </fieldset>
+                  </div>
+                </div>
+                <button
+                  aria-label="add"
+                  className="MuiButtonBase-root MuiFab-root MuiFab-circular MuiFab-sizeLarge MuiFab-primary MuiFab-root MuiFab-circular MuiFab-sizeLarge MuiFab-primary css-18wiaov-MuiButtonBase-root-MuiFab-root"
+                  disabled={false}
+                  onBlur={[Function]}
+                  onContextMenu={[Function]}
+                  onDragLeave={[Function]}
+                  onFocus={[Function]}
+                  onKeyDown={[Function]}
+                  onKeyUp={[Function]}
+                  onMouseDown={[Function]}
+                  onMouseLeave={[Function]}
+                  onMouseUp={[Function]}
+                  onTouchEnd={[Function]}
+                  onTouchMove={[Function]}
+                  onTouchStart={[Function]}
+                  tabIndex={0}
+                  type="button"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-i4bv87-MuiSvgIcon-root"
+                    data-testid="PlayCircleFilledIcon"
+                    focusable="false"
+                    marginbottom={5}
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"
+                    />
+                  </svg>
+                </button>
+                <p
+                  className="MuiTypography-root MuiTypography-body1 css-517taj-MuiTypography-root"
+                  data-testid="startButton"
+                >
+                  Start
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className="MuiGrid2-root MuiGrid2-direction-xs-row MuiGrid2-grid-xs-2 css-bytlsb-MuiGrid2-root"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
